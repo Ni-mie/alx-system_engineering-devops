@@ -15,3 +15,4 @@
 9. **John Doe:** A script that sets the mode of the file hello to this:
 * The file hello will be in the working directory.
 * Not allowed to use commas for this script.
+10. **Look in the mirror:** A script that sets the mode of the file hello the same as olleh’s mode.
