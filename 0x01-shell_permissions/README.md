@@ -12,3 +12,6 @@
 * Owner: no permission at all
 * Group: no permission at all
 * Other users: all the permissions
+9. **John Doe:** A script that sets the mode of the file hello to this:
+* The file hello will be in the working directory.
+* Not allowed to use commas for this script.
