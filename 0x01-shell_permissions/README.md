@@ -20,3 +20,4 @@
 12. **More directories:** A script that creates a directory called my_dir with permissions 751 in the working directory.
 13. **Change group:** A script that changes the group owner to school for the file hello.
 14. **Owner and group:** A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+15. **Symbolic links:** A script that changes the owner and the group owner of _hello to vincent and staff respectively.
