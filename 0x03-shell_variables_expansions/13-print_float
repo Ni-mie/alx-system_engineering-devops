@@ -1,2 +1,2 @@
 #!/bin/bash
-alias NUM='printf"%f\n"'
+printf"%f\n" $NUM
